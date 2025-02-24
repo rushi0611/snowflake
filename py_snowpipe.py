@@ -81,3 +81,4 @@ if __name__ == "__main__":
     temp_dir.cleanup()
     snow.close()
     logging.info("Ingest complete")
+    
